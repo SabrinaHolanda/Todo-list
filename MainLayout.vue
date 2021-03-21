@@ -51,12 +51,6 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksData = [
   {
-    title: 'Atividades',
-    caption: 'Atividades dos usuários',
-    icon: 'school',
-    link: '/'
-  },
-  {
     title: 'Github',
     caption: 'Repositório GitHub',
     icon: 'code',
